@@ -9,8 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gerins](https://github.com/gerins)
 
-- 📫 How to reach me [linkedin](https://www.linkedin.com/in/garin-prakoso-60244b1a2)
+- 📫 Reach me at [linkedin](https://www.linkedin.com/in/garin-prakoso-60244b1a2)
 
+
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -61,7 +63,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerins&show_icons=true&locale=en" alt="gerins" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerins&" alt="gerins" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gerins&show_icons=true&locale=en&layout=compact" alt="gerins" /> -->
-</div>
+ <img src="https://github-readme-stats.vercel.app/api?username=gerins&show_icons=true&locale=en" alt="gerins" /> 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerins&" alt="gerins" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gerins&show_icons=true&locale=en&layout=compact" alt="gerins" /> 
+</div> -->
